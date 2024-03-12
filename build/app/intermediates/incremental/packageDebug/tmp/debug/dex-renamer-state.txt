@@ -1,4 +1,4 @@
-#Tue Mar 12 15:56:03 ICT 2024
+#Tue Mar 12 23:24:31 ICT 2024
 base.0=/Users/boeain/FreightQuotation/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
 renamed.0=classes.dex
 path.0=classes.dex
