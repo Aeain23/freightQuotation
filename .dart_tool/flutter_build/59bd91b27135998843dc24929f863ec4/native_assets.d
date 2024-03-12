@@ -1,0 +1,1 @@
+ /Users/boeain/FreightQuotation/.dart_tool/flutter_build/59bd91b27135998843dc24929f863ec4/native_assets.yaml: 
