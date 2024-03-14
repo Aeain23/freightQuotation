@@ -2,6 +2,12 @@
   "configVersion": 2,
   "packages": [
     {
+      "name": "animate_do",
+      "rootUri": "file:///Users/boeain/.pub-cache/hosted/pub.dev/animate_do-3.3.4",
+      "packageUri": "lib/",
+      "languageVersion": "3.1"
+    },
+    {
       "name": "another_flushbar",
       "rootUri": "file:///Users/boeain/.pub-cache/hosted/pub.dev/another_flushbar-1.12.30",
       "packageUri": "lib/",
@@ -68,6 +74,18 @@
       "languageVersion": "2.18"
     },
     {
+      "name": "connectivity_plus",
+      "rootUri": "file:///Users/boeain/.pub-cache/hosted/pub.dev/connectivity_plus-5.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "connectivity_plus_platform_interface",
+      "rootUri": "file:///Users/boeain/.pub-cache/hosted/pub.dev/connectivity_plus_platform_interface-1.2.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "convert",
       "rootUri": "file:///Users/boeain/.pub-cache/hosted/pub.dev/convert-3.1.1",
       "packageUri": "lib/",
@@ -86,8 +104,20 @@
       "languageVersion": "2.19"
     },
     {
+      "name": "dbus",
+      "rootUri": "file:///Users/boeain/.pub-cache/hosted/pub.dev/dbus-0.7.10",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
       "name": "equatable",
       "rootUri": "file:///Users/boeain/.pub-cache/hosted/pub.dev/equatable-2.0.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "expandable",
+      "rootUri": "file:///Users/boeain/.pub-cache/hosted/pub.dev/expandable-5.0.1",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -140,6 +170,12 @@
       "languageVersion": "3.0"
     },
     {
+      "name": "form_field_validator",
+      "rootUri": "file:///Users/boeain/.pub-cache/hosted/pub.dev/form_field_validator-1.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "get",
       "rootUri": "file:///Users/boeain/.pub-cache/hosted/pub.dev/get-4.6.6",
       "packageUri": "lib/",
@@ -168,6 +204,12 @@
       "rootUri": "file:///Users/boeain/.pub-cache/hosted/pub.dev/image-4.1.7",
       "packageUri": "lib/",
       "languageVersion": "2.15"
+    },
+    {
+      "name": "intl",
+      "rootUri": "file:///Users/boeain/.pub-cache/hosted/pub.dev/intl-0.19.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
     },
     {
       "name": "intl_phone_number_input",
@@ -230,6 +272,12 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "lottie",
+      "rootUri": "file:///Users/boeain/.pub-cache/hosted/pub.dev/lottie-3.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.2"
+    },
+    {
       "name": "matcher",
       "rootUri": "file:///Users/boeain/.pub-cache/hosted/pub.dev/matcher-0.12.16+1",
       "packageUri": "lib/",
@@ -252,6 +300,18 @@
       "rootUri": "file:///Users/boeain/.pub-cache/hosted/pub.dev/nested-1.0.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
+    },
+    {
+      "name": "nm",
+      "rootUri": "file:///Users/boeain/.pub-cache/hosted/pub.dev/nm-0.5.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "panara_dialogs",
+      "rootUri": "file:///Users/boeain/.pub-cache/hosted/pub.dev/panara_dialogs-0.1.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.15"
     },
     {
       "name": "path",
@@ -330,12 +390,6 @@
       "rootUri": "file:///Users/boeain/.pub-cache/hosted/pub.dev/provider-6.1.2",
       "packageUri": "lib/",
       "languageVersion": "2.12"
-    },
-    {
-      "name": "quickalert",
-      "rootUri": "file:///Users/boeain/.pub-cache/hosted/pub.dev/quickalert-1.1.0",
-      "packageUri": "lib/",
-      "languageVersion": "2.17"
     },
     {
       "name": "quiver",
@@ -500,7 +554,7 @@
       "languageVersion": "3.3"
     }
   ],
-  "generated": "2024-03-12T08:09:45.264650Z",
+  "generated": "2024-03-14T06:45:37.537394Z",
   "generator": "pub",
   "generatorVersion": "3.3.0"
 }
